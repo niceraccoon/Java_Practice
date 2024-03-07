@@ -20,6 +20,8 @@ Feel free to explore the solutions provided in this repository. You can clone th
 ### Sum of numbers
 
 - Calculate the sum of all numbers from 1 to 100, excluding numbers that are divisible by 3 without a remainder.
+
+###Remainder of the devision
 - Rearrangement of flowerpots and their position on a specific day
 
  On Christmas Eve, there were three flowers on the windowsill, from left to right: geranium, crocus, and violet.
