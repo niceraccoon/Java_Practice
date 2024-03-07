@@ -13,7 +13,7 @@ program
 Output text:
 program
 first
-my1
+my
  */
 
 public class StringsInReverseOrder {
