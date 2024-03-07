@@ -1,4 +1,4 @@
-package SumOfNumbers;
+package RemainderOfDevision;
 
 //Calculate the sum of all numbers from 1 to 100, excluding numbers that are divisible by 3 without a remainder.
 public class Sum_except_3 {
