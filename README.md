@@ -19,7 +19,7 @@ Feel free to explore the solutions provided in this repository. You can clone th
 
 ### Operations with data
 
-- Average of the input numbers
+#### Average of the input numbers
 
  Write a program that takes three numbers from console as input to calculate and print output the average of the numbers.
  Example of output:
