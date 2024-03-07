@@ -17,7 +17,7 @@ Feel free to explore the solutions provided in this repository. You can clone th
 
 ## Problems
 
-### Operations with data
+### I. Operations with data
 
 **1. <span style="color:green">Average of the input numbers</span>**
 
@@ -50,7 +50,16 @@ program
 first
 my
 
-### Remainder of the division
+**5. <span style="color:green">Multiplying two numbers</span>**
+
+Implement a function called multiply, which takes two numbers and returns their product:
+
+multiply(2, 3) = 6
+multiply(0, 188) = 0
+multiply(85, 144) = 12240
+
+
+### II. Remainder of the division
 
 **1. <span style="color:green">Rearrangement of flowerpots and their position on a specific day</span>**
 
