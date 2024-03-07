@@ -1,6 +1,6 @@
 package RemainderOfDevision;
 
-//Calculate the sum of all numbers from 1 to 100, excluding numbers that are divisible by 3 without a remainder.
+//Task: "Calculate the sum of all numbers from 1 to 100, excluding numbers that are divisible by 3 without a remainder."
 public class Sum_except_3 {
     public static void main(String[] args) {
         int sum = 0; // Create a variable to store the sum of numbers
