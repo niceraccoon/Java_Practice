@@ -19,23 +19,23 @@ Feel free to explore the solutions provided in this repository. You can clone th
 
 ### Operations with data
 
-I. **<span style="color:green">Average of the input numbers</span>**
+1. **<span style="color:green">Average of the input numbers</span>**
 Write a program that takes three numbers from console as input to calculate and print output the average of the numbers.
 Example of output:
 First number - 6, second number - 4, third number - 7
 Average - 5.6666665
 
-II. **<span style="color:green">Operations on two input numbers</span>**
+2. **<span style="color:green">Operations on two input numbers</span>**
 Create Console Application project in Java.
 In main() method write code for solving the next tasks:
 - Define integer variables a and b. Read values a and b from Console and calculate: a + b, a - b, a * b, a / b.
 - Output obtained results.
  
- III. **<span style="color:green">Read and output data</span>**
+ 3. **<span style="color:green">Read and output data</span>**
 
 Output question “How are you?“. Define string variable answer. Read the value answer and output: “You are (answer)".
 
-IV. **<span style="color:green">Output the input strings in the reverse order</span>**  
+4. **<span style="color:green">Output the input strings in the reverse order</span>**  
 Write a program that reads three strings and outputs them in the reverse order, each on a new line.
 Example of output:  
 **Input text:**
