@@ -14,3 +14,9 @@ This repository serves as a collection of Java programs solving different proble
 ## Usage
 
 Feel free to explore the solutions provided in this repository. You can clone the repository locally and run the Java programs using any Java IDE or compiler.
+
+## Problems
+
+### Sum of numbers
+
+- Calculate the sum of all numbers from 1 to 100, excluding numbers that are divisible by 3 without a remainder.
