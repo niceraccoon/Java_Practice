@@ -92,7 +92,8 @@ Calculate the sum of all numbers from 1 to 100, excluding numbers that are divis
 ### III. Practical tasks video with solutions
 
 **1. Students**
- Create a Console Application project. Add a class called Student to the project. The Student class should include:
+
+Create a Console Application project. Add a class called Student to the project. The Student class should include:
 
 ✓ Two private fields: name and rating;
 
