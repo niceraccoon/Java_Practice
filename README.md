@@ -43,13 +43,19 @@ Write a program that reads three strings and outputs them in the reverse order, 
 Example of output:  
 
 **Input text:**
+
 my
+
 first
+
 program
 
 **Output text:**
+
 program
+
 first
+
 my
 
 **5. Multiplying two numbers**
@@ -57,7 +63,9 @@ my
 Implement a function called multiply, which takes two numbers and returns their product:
 
 multiply(2, 3) = 6
+
 multiply(0, 188) = 0
+
 multiply(85, 144) = 12240
 
 
@@ -87,13 +95,18 @@ Calculate the sum of all numbers from 1 to 100, excluding numbers that are divis
  Create a Console Application project. Add a class called Student to the project. The Student class should include:
 
 ✓ Two private fields: name and rating;
+
 ✓ Properties to access these fields;
+
 ✓ A default constructor and a constructor with parameters;
+
 ✓ A static method called avgRating() that calculates the average rating of all students;
+
 ✓ methods called:
 
-• betterStudent(Student s) that determines which of two students is better (returns true or false);
-• toString() that outputs information about the student.
+- betterStudent(Student s) that determines which of two students is better (returns true or false);
+- toString() that outputs information about the student.
 
 In the main() method, create 3 objects of the Student type and input information about them.
+
 Display the average and total rating of all students.
