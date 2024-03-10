@@ -41,10 +41,12 @@ Output question “How are you?“. Define string variable answer. Read the valu
 
 Write a program that reads three strings and outputs them in the reverse order, each on a new line.
 Example of output:  
+
 **Input text:**
 my
 first
 program
+
 **Output text:**
 program
 first
@@ -67,8 +69,10 @@ On Christmas Eve, there were three flowers on the windowsill, from left to right
 Every morning, Masha wiped the window and swapped the flower on the right with the central flower.
 And every evening, Tanya watered the flowers and swapped the left and central flowers.
 It is required to determine the order of flowers at night after K days.
+
 **Input:**
 The input file INPUT.TXT contains a natural number K - the number of days (K ≤ 1000).
+
 **Output:**
 In the output file OUTPUT.TXT, you need to output three English letters: "G", "C", and "V" (capital letters without spaces),
 describing the order of colors on the window after K days (from left to right). Denotations: G - geranium, C - crocus, V - violet.
@@ -81,12 +85,15 @@ Calculate the sum of all numbers from 1 to 100, excluding numbers that are divis
 
 **1. Students**
  Create a Console Application project. Add a class called Student to the project. The Student class should include:
+
 ✓ Two private fields: name and rating;
 ✓ Properties to access these fields;
 ✓ A default constructor and a constructor with parameters;
 ✓ A static method called avgRating() that calculates the average rating of all students;
 ✓ methods called:
+
 • betterStudent(Student s) that determines which of two students is better (returns true or false);
 • toString() that outputs information about the student.
+
 In the main() method, create 3 objects of the Student type and input information about them.
 Display the average and total rating of all students.
